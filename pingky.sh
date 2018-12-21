@@ -79,5 +79,4 @@ mv hammer $HOME
 cd $HOME/hammer
 read -p "Masukan Targetmu su:" target
 python2 hammer.py -T -t target
-fi
-THANKS
+
